@@ -1,4 +1,4 @@
-# SYMON SAYS GAME
+# SYMON SAYS GAME [FrontEnd]
 
 A simple Simon Says game built with HTML, CSS, and JavaScript.
 
