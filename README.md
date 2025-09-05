@@ -1,5 +1,6 @@
 # SYMON SAYS GAME [FrontEnd]
 
+https://lab-dev-pranav.github.io/Symon_Says_Game_fe/
 A simple Simon Says game built with HTML, CSS, and JavaScript.
 
 ## How to Play
