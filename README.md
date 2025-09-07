@@ -1,5 +1,10 @@
 # SYMON SAYS GAME [FrontEnd]
+
+GitHub Live URL
 https://lab-dev-pranav.github.io/Symon_Says_Game_fe/
+
+Render live URL
+https://symon-says-by-dev-p.onrender.com/
 
 A simple Simon Says game built with HTML, CSS, and JavaScript.
 
